@@ -11,7 +11,7 @@ An analysis of loan data from the peer-to-peer lending company [Prosper](https:/
 ## Table of Contents
 - [Background](#background)
 - [Dataset](#dataset)
-- [Packages](#packages)
+- [Libraries](#libraries)
 - [Summary of Process](#summary-of-process)
 - [Key Insights](#key-insights)
 
@@ -26,8 +26,8 @@ Loans are true lifesavers. They help us handle emergencies and pursue important 
 
 The dataset has 113937 loan entries with 81 observations per entry.
 
-## Packages
-The analysis was done in Jupyter Notebook. The packages used were:  
+## Libraries
+The analysis was done in Jupyter Notebook. The libraries used were:  
 | | |
 |--- |---|
 | Pandas | Numpy 
